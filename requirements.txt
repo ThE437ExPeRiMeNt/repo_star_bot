@@ -1,0 +1,5 @@
+selenium
+undetected-chromedriver
+requests
+fake_useragent
+python-dotenv
